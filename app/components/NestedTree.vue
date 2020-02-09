@@ -18,6 +18,7 @@
 
 <script>
 import NestedTree from './NestedTree'
+
 export default {
   name: 'NestedTree',
   components: {

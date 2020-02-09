@@ -71,7 +71,7 @@ export default {
   }),
   methods: {
     openChildren(list) {
-      console.log(`TreeSidebar2#openChildren() called.`)
+      console.log(`TreeSidebar#openChildren() called.`)
       console.log(list)
       console.log('select id=' + list[list.length - 1])
       this.selectId(list[list.length - 1])
