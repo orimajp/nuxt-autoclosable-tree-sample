@@ -11,7 +11,7 @@
 
 <script>
 import TreeSidebar from '../components/TreeSidebar'
-import Page from "../components/Page";
+import Page from "../components/Page"
 
 export default {
   components: {
