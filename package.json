@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-autoclosable-tree-sample",
+  "version": "1.0.0",
+  "description": "My majestic Nuxt.js project",
+  "author": "Hideo Oshima",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
